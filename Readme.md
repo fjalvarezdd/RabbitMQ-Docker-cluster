@@ -64,7 +64,7 @@ The producer / consumer scripts were created as simple Node.js scripts so they c
 
 
 ## Using `docker-compose`
-This section details how to start the whole cluster using `docker-compose` and a YAML definition file
+Also you can start the whole clustering using `docker-compose` and a YAML definition file
 
 1. Create a network shared by all containers
 ```bash
